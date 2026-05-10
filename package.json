@@ -1,0 +1,9 @@
+{
+  "name": "notion-slack-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "google-spreadsheet": "^4.1.1",
+    "google-auth-library": "^9.0.0",
+    "@google/generative-ai": "^0.1.0"
+  }
+}
